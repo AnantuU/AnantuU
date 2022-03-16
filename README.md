@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Anant
-- 👀 I’m interested in python and html ...
-- 🌱 I’m currently learning html...
-
+I am currently learning C++
 
